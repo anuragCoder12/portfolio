@@ -58,10 +58,10 @@ function Projects() {
             }}
           >
             <Typography>
-              This is an demo for an restaurant website where you can order food items.
+              This is an demo for an educational institute
             </Typography><br />
             <Typography>
-              Buld using React,Material UI
+              Buld using React, css
             </Typography>
             <Box sx={{ marginLeft: "250px", marginTop: "20px" }}>
               <Button href="https://github.com/anuragCoder12/course_site/settings/pages" sx={{color:"#8D23A7"}}>Code</Button>
